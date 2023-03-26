@@ -10,5 +10,4 @@ public class indentItem {
     private Float discount;//折扣
     private Float finalPrice;//最终价格
     private String description;//菜品描述
-
 }
