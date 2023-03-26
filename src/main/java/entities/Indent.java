@@ -10,5 +10,4 @@ public class Indent {
     private Users userID;//外键，下单用户ID
     private Merchants merchantsID;//外键，餐厅ID
     private Float allPrice;//菜品总价
-
 }
