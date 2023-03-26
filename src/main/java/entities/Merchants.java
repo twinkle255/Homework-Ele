@@ -8,7 +8,6 @@ public class Merchants {
     private Long id;//商家编号
     private String name;//店铺名字
     private String address;//店铺地址
+    private String description;//店铺描述
     private Indent IndentID;//外键，订单ID
-
-
 }
