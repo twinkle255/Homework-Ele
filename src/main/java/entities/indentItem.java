@@ -1,7 +1,7 @@
 package entities;
 
 import lombok.Data;
-
+//订单中的菜品
 @Data
 public class indentItem {
     private Long id;//菜品ID
